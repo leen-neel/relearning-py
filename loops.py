@@ -1,3 +1,7 @@
+'''
+WHILE LOOPS
+'''
+
 i = 1
 
 while i < 6: 
@@ -14,4 +18,11 @@ while i < 6:
     print(i)
 else:
     print("dead lol")
+
+'''
+FOR LOOPS
+'''
+
+for i in range(6):
+    print(i)
     
